@@ -9,7 +9,11 @@ I am Nobel, a developer from Bangladesh. I am currently employed as a Senior Sof
 + 📺 TV Shows or Movies that I enjoyed lately - Silicon Valley, Interstellar, Haikyu, Attack on Titan, The Boys and The Office
 
 ### 🔗 Ways to Reach Me
+
 + [Email](mailto:asif.nobel@gmail.com)
 + [LinkedIn](https://www.linkedin.com/in/asifulnobel)
-+ [Website](https://asifulnobel.github.io/)
 + [Twitter](https://twitter.com/Asiful_Nobel)
+
+### ✈️ Blog/Portfolio
+
++ [Personal Website](https://asifulnobel.github.io/)
