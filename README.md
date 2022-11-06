@@ -1,6 +1,6 @@
 ## Greetings, My Fellow Earthling!😎
 
-I am Nobel, a developer from Bangladesh. I am currently employed as a Senior Software Engineer at Enosis Solutions. I am working on a CRM there to make media salespeople's work easier.
+I am Nobel, a developer from Bangladesh. I am currently employed as a Software Engineer at CoverGo. I am working on their insurance platform to streamline digital ecosystem for the insurance industry and help the insurance companies launch products faster to more people.
 
 + 🖥️ Tech that I work with on my job - C#, F#, ASP.NET, ASP.NET CORE, Suave, JavaScript, AngularJS, NUnit, Mocha, HTML, CSS, SQL Server, Azure Table Storage, Azure Functions and Azure App Service
 + 💾 Tech that I have worked on in the past - Python, Django, TypeScript, Angular, SciPy, NumPy, TensorFlow, Ruby and Rails
